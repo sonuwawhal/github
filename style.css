@@ -186,3 +186,11 @@ top:65%;
 left:10%;
 text-decoration: none;
 }
+.fifth{
+    width:1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 40px auto; 
+    gap:30px;
+}
